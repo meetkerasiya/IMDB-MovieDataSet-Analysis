@@ -1,2 +1,10 @@
 # IMDB-MovieDataSet-Analysis
-Predict Commerical and Critical Success of Movies
+
+The data set is taken from "https://www.kaggle.com/tmdb/tmdb-movie-metadata"
+
+The project aims to decipher factors that contribute to "Predicting Success of Movies". 
+
+The project has
+1)  an R file for Data Cleaning and Model Building
+2) A presentation which talks about Success Criteria (I concentrate on Commercial Success and Critical Acclimation)
+3) The model is built using Logistic Regression because we need interpretability
